@@ -452,7 +452,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: freight-elevator-33694
+    m_DisplayName: ElevatorSound
   m_Markers:
     m_Objects: []
   m_TrackProperties:
@@ -606,7 +606,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Please Hold - Jono (Hermitcraft Permit Office Song) 4
+    m_DisplayName: Elevator Music
   m_Markers:
     m_Objects: []
   m_TrackProperties:
